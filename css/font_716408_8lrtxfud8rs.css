@@ -1,0 +1,32 @@
+/****************************************************************
+ *																*		
+ * 						      代码库							*
+ *                        www.dmaku.com							*
+ *       		  努力创建完善、持续更新插件以及模板			*
+ * 																*
+****************************************************************/
+
+@font-face {font-family: "iconfont";
+  src: url('//at.alicdn.com/t/font_716408_8lrtxfud8rs.eot?t=1530089209955'); /* IE9*/
+  src: url('//at.alicdn.com/t/font_716408_8lrtxfud8rs.eot?t=1530089209955#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff;charset=utf-8;base64,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') format('woff'),
+  url('//at.alicdn.com/t/font_716408_8lrtxfud8rs.ttf?t=1530089209955') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('//at.alicdn.com/t/font_716408_8lrtxfud8rs.svg?t=1530089209955#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-search:before { content: "\e6ac"; }
+
+.icon-aui-icon-left:before { content: "\e628"; }
+
+.icon-play:before { content: "\e613"; }
+
+.icon-right:before { content: "\e685"; }
+
